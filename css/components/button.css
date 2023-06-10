@@ -1,0 +1,13 @@
+.btn {
+  background-color: rgb(27, 176, 27);
+  text-decoration: none;
+  color: #fff;
+  padding: 8px 0;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+}
+
+.btn:hover {
+  background-color: rgb(16, 111, 16);
+}
